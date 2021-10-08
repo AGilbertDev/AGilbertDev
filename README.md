@@ -11,7 +11,7 @@
   <img src='icons/javascript.svg' alt='javascript icon' width='40'/>
   <img src='icons/jquery.svg' alt='jquery icon' width='40'/>
   <img src='icons/ajax.png' alt='ajax icon' width='40'/>
-  <img src='icons/mysqli.png' alt='mysqlil icon' width='40'/>
+  <img src='icons/mysqli.png' alt='mysqli icon' width='40'/>
   <img src='icons/java.svg' alt='java icon' width='40'/>
   <img src='icons/android-icon.svg' alt='android icon' width='40'/>
 </div>
