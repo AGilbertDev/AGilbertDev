@@ -18,4 +18,5 @@
   <img src='icons/android-icon.svg' alt='android icon' title='Android' height='40'/>
   <img src='icons/python.svg' alt='python icon' title='Python' height='40'/>
 </div>
+<hr>
 <a href="https://github.com/get-icon/geticon">Icônes par geticon.org</a>
