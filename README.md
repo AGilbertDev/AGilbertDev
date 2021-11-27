@@ -11,7 +11,7 @@
   <img src='icons/less.svg' alt='less icon' height='40'/>
   <img src='icons/php.svg' alt='php icon' height='40'/>
   <img src='icons/javascript.svg' alt='javascript icon' height='40'/>
-  <img src='icons/jquery.svg' alt='jquery icon' height='40'/>
+  <img src='icons/jquery-icon.svg' alt='jquery icon' height='40'/>
   <img src='icons/ajax.png' alt='ajax icon' height='40'/>
   <img src='icons/mysql.svg' alt='mysql icon' height='40'/>
   <img src='icons/java.svg' alt='java icon' height='40'/>
