@@ -3,19 +3,19 @@
 <a href="https://agilbert.dev">Mon portfolio est ici!</a>
 <hr>
 <div>
-  <img src='icons/git-icon.svg' alt='git icon' height='40'/>
-  <img src='icons/github-icon.svg' alt='github icon' height='40'/>
-  <img src='icons/html-5.svg' alt='html icon' height='40'/>
-  <img src='icons/css-3.svg' alt='css icon' height='40'/>
-  <img src='icons/bootstrap.svg' alt='bootstrap icon' height='40'/>
-  <img src='icons/less.svg' alt='less icon' height='40'/>
-  <img src='icons/javascript.svg' alt='javascript icon' height='40'/>
-  <img src='icons/jquery-icon.svg' alt='jquery icon' height='40'/>
-  <img src='icons/ajax.svg' alt='ajax icon' height='40'/>
-  <img src='icons/mysql.svg' alt='mysql icon' height='40'/>
-  <img src='icons/php.svg' alt='php icon' height='40'/>
-  <img src='icons/java.svg' alt='java icon' height='40'/>
-  <img src='icons/android-icon.svg' alt='android icon' height='40'/>
-  <img src='icons/python.svg' alt='python icon' height='40'/>
+  <img src='icons/git-icon.svg' alt='git icon' title='Git' height='40'/>
+  <img src='icons/github-icon.svg' alt='github icon' title='Github' height='40'/>
+  <img src='icons/html-5.svg' alt='html icon' title='HTML5' height='40'/>
+  <img src='icons/css-3.svg' alt='css icon' title='CSS3' height='40'/>
+  <img src='icons/bootstrap.svg' alt='bootstrap icon' title='Bootstrap' height='40'/>
+  <img src='icons/less.svg' alt='less icon' title='Less' height='40'/>
+  <img src='icons/javascript.svg' alt='javascript icon' title='Javascript' height='40'/>
+  <img src='icons/jquery-icon.svg' alt='jquery icon' title='jQuery' height='40'/>
+  <img src='icons/ajax.svg' alt='ajax icon' title='Ajax' height='40'/>
+  <img src='icons/mysql.svg' alt='mysql icon' title='MySQL' height='40'/>
+  <img src='icons/php.svg' alt='php icon' title='PHP' height='40'/>
+  <img src='icons/java.svg' alt='java icon' title='Java' height='40'/>
+  <img src='icons/android-icon.svg' alt='android icon' title='Android' height='40'/>
+  <img src='icons/python.svg' alt='python icon' title='Python' height='40'/>
 </div>
 <a href="https://github.com/get-icon/geticon">Icônes par geticon.org</a>
