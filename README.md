@@ -1,6 +1,6 @@
 <h3>Bonjour! Je m'appelle Alexandre.</h3>
 <p>J'étudie en informatique à l'université de Montréal. J'adore coder des sites web et des applis pour android.</p>
-<p>Ce que j'aime par dessus tout, c'est programmer des sites web ou des applications pour android.</p>
+<p>Ce que j'aime par dessus tout, c'est programmer des sites web ou des applications pour android. Ça donne des résultats concrets, j'aime ça comme ça.</p>
 <a href="https://agilbert.dev">Mon portfolio est ici!</a>
 <hr>
 <div>
@@ -20,7 +20,7 @@
   <img src='icons/python.svg' alt='python icon' title='Python' height='40'/>
 </div>
 <hr>
-<a href="https://github.com/get-icon/geticon">Icônes par geticon.org</a>
+<a href="https://github.com/get-icon/geticon">Icônes par geticon.org</a><br>
 
 <p>Avec 7 ans d'expérience de travail après le cégep, dans des agences de placement, des entrepôts ou des usines comme Molson Coors, j'ai été contraint d'apprendre une tonne de tâches différentes et très rapidement, variant complètement d'une à l'autre. J'apprend très vite et je n'ai jamais de mal à faire ce qu'on m'a montré.</p>
 
