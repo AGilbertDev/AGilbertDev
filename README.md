@@ -22,9 +22,7 @@
 <hr>
 <a href="https://github.com/get-icon/geticon">Icônes par geticon.org</a>
 
-<br>
-
-<p>Avec 7 ans d'expérience de travail après le cégep, dans des agences de placement, des entrepôts ou des usines comme Molson Coors, j'ai été contraint d'apprendre une tonne de tâches différentes et très rapidement, variant complètement d'une à l'autre. J'apprend très vite et je n'ai jamais de mal à faire ce qu'on m'a montré.</p>
+<p><br>Avec 7 ans d'expérience de travail après le cégep, dans des agences de placement, des entrepôts ou des usines comme Molson Coors, j'ai été contraint d'apprendre une tonne de tâches différentes et très rapidement, variant complètement d'une à l'autre. J'apprend très vite et je n'ai jamais de mal à faire ce qu'on m'a montré.</p>
 
 <p>Je comprend très vite, donc mes superviseurs et chefs d'équipe me font facilement confiance. Ils me confient rapidement des tâches de plus qu'aux autres. Je me retrouve souvent dans une position où je corrige des erreurs ou bien je règle des problèmes qui font attendre tout le monde. J'ai parfois eu à former mes nouveaux coéquipiers.</p>
 
