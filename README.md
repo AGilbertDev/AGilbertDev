@@ -28,4 +28,4 @@
 
 <p>J'ai eu la chance de travailler très longtemps en équipe, avec des personnalités complètement différentes! Je m'entend bien avec tout le monde. J'ai tendance à garder un oeil sur la réalisation du projet avant le reste. J'aime montrer que je reçois bien la critique et donner un retour rapidement. Sur des projets de jeux vidéo, par exemple, je me suis montré très proactif, pour respecter les contraintes artistiques ou techniques des projets. Je me suis fait dire à quelques reprises que j'étais rassembleur, ou que j'étais la colle qui tient l'équipe ensemble.</p>
 
-<p>L'informatique est un milieur parfait pour moi et j'adore ce que je fais. Je souhaite utiliser ces qualités pour veiller à la réalisation de tous mes prochains projets, personnels ou dans les entreprises où je me rendrai.</p>
+<p>L'informatique est un milieu parfait pour moi et j'adore ce que je fais. Je souhaite utiliser ces qualités pour veiller à la réalisation de tous mes prochains projets, personnels ou dans les entreprises où je me rendrai.</p>
