@@ -20,7 +20,9 @@
   <img src='icons/python.svg' alt='python icon' title='Python' height='40'/>
 </div>
 <hr>
-<a href="https://github.com/get-icon/geticon">Icônes par geticon.org</a></br>
+<a href="https://github.com/get-icon/geticon">Icônes par geticon.org</a>
+
+<br>
 
 <p>Avec 7 ans d'expérience de travail après le cégep, dans des agences de placement, des entrepôts ou des usines comme Molson Coors, j'ai été contraint d'apprendre une tonne de tâches différentes et très rapidement, variant complètement d'une à l'autre. J'apprend très vite et je n'ai jamais de mal à faire ce qu'on m'a montré.</p>
 
