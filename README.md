@@ -23,7 +23,7 @@
 </div><hr>
 
 <p>
-  Avec 7 ans d'expérience de travail entre le cégep et l'université, tant dans des agences de placement que des entrepôts ou des usines comme Molson Coors, j'ai été contraint     d'apprendre une tonne de tâches différentes et très rapidement, variant complètement d'une à l'autre, dont certaines sous pression et d'autres exigeant une bonne performance.
+  Avec 7 ans d'expérience de travail entre le cégep et l'université, tant dans des agences de placement que des entrepôts ou des usines, j'ai été contraint d'apprendre une tonne   de tâches différentes et très rapidement, variant complètement d'une à l'autre, dont certaines sous pression et d'autres exigeant une bonne performance.
 </p>
 
 <p>
