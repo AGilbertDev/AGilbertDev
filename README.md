@@ -35,5 +35,5 @@
 </p>
 
 <p>
-  L'informatique est un milieu parfait pour moi et j'adore ce que je fais. Je souhaite utiliser ces qualités pour veiller à la réalisation de tous mes prochains projets,           personnels ou dans les entreprises pour qui je travaillerai.
+  L'informatique est un milieu parfait pour moi et j'adore ce que je fais. Je souhaite utiliser ces qualités pour veiller à la réalisation de tous mes prochains projets,           personnels ou dans les entreprises où je travaillerai.
 </p>
