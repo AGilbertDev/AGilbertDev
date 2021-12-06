@@ -27,7 +27,7 @@
 </p>
 
 <p>
-  Je comprend très vite, donc mes superviseurs et chefs d'équipe me font facilement confiance. Ils me confient rapidement des tâches supplémentaires. Il m'a souvent été demandé   de corriger des erreurs ou bien de régler des problèmes qui font attendre tout le monde. J'ai même parfois eu à former mes nouveaux coéquipiers.
+  Mes superviseurs et chefs d'équipe me font facilement confiance. Ils me confient rapidement des tâches supplémentaires. Il m'a souvent été demandé de corriger des erreurs ou     bien de régler des problèmes qui font attendre tout le monde. J'ai même parfois eu à former mes nouveaux coéquipiers.
 </p>
 
 <p>
