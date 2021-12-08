@@ -31,7 +31,7 @@
 </p>
 
 <p>
-  J'ai eu la chance de travailler très longtemps en équipe, avec des personnalités complètement différentes! J'aime partager ce que j'ai appris. Je m'entend bien avec tout le     monde. J'ai tendance à garder un oeil sur la réalisation du projet avant le reste. J'aime montrer que je reçois bien la critique et donner un retour rapidement. Sur d'anciens   projets, je me suis montré très proactif, pour respecter les contraintes artistiques ou techniques. Je veux aussi que tout le monde puisse exprimer son opinion. Je me suis       fait dire à quelques reprises que j'étais "rassembleur", ou que j'étais "la colle qui tient l'équipe ensemble"... dans le bon sens du terme.
+  J'ai eu la chance de travailler très longtemps en équipe, avec des personnalités complètement différentes! J'aime partager ce que j'ai appris. Je m'entend bien avec tout le     monde. J'aime montrer que je reçois bien la critique et donner un retour rapidement. Sur d'anciens projets, je me suis montré très proactif, pour respecter les contraintes       artistiques ou techniques. Je veux aussi que tout le monde puisse exprimer son opinion. Je me suis fait dire à quelques reprises que j'étais "rassembleur", ou que j'étais "la   colle qui tient l'équipe ensemble".
 </p>
 
 <p>
