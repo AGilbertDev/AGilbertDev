@@ -20,7 +20,5 @@
     <img src='icons/python.svg' alt='python icon' title='Python' height='40'/>
   </div>
   <a href="https://github.com/get-icon/geticon">Icônes par geticon.org</a>
-</div><hr>
-
-<p>
-</p>
+</div>
+  
