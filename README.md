@@ -1,7 +1,3 @@
-<h3>Bonjour! Je m'appelle Alexandre.</h3>
-<p>J'étudie en informatique à l'université de Montréal. Ce qui m'intéresse principalement, c'est de programmer des sites web et des applications mobiles.</p>
-<a href="https://agilbert.dev">Mon portfolio est ici!</a>
-<hr>
 <div>
   <div>
     <img src='icons/git-icon.svg' alt='git icon' title='Git' height='40'/>
