@@ -1,3 +1,5 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 <div>
   <div>
     <img src='icons/git-icon.svg' alt='git icon' title='Git' height='40'/>
