@@ -1,6 +1,6 @@
 <h1>Hello, I'm a Web Developer and Computer Science student.</h1>
 
-[![Top Langs](https://github-readme-stats-woad-six-78.vercel.app/api/top-langs/?username=agilbertdev&layout=compact)](https://github.com/Agilbertdev/github-readme-stats)
+[![Top Langs](https://github-readme-stats-woad-six-78.vercel.app/api/top-langs/?username=agilbertdev&layout=compact)](https://github.com/AGilbertdev/github-readme-stats)
 
 <h1>My stack</h1>
 <h2>Back-end</h2>
