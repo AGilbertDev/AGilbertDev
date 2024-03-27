@@ -2,7 +2,7 @@
 <h3>I like to work on web and mobile apps.</h3>
 <h2><a href='https://agilbert.dev'>Portfolio</a>&emsp;<a href='https://www.linkedin.com/in/agilbertdev/'>Linkedin</a>&emsp;<a href='https://leetcode.com/AGilbertDev/'>Leetcode</a></h2>
 
-[![Top Langs](https://github-readme-stats-woad-six-78.vercel.app/api/top-langs/?username=agilbertdev&layout=compact)](https://github.com/AGilbertDev/github-readme-stats)
+[![Top Langs](https://github-readme-stats-woad-six-78.vercel.app/api/top-langs/?username=Agilbertdev&layout=compact)](https://github.com/AGilbertDev/github-readme-stats)
 
 <h2>My stack</h2>
 <h3>Back-end</h3>
