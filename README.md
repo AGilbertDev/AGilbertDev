@@ -1,6 +1,6 @@
 <h1>Hello, I'm a Web Developer and Computer Science student.</h1>
 <h3>I like to work on web and mobile apps.</h3>
-<h2><a href='https://agilbert.dev'>Portfolio</a>&emsp;<a href='https://www.linkedin.com/in/agilbertdev/'>Linkedin</a>&emsp;<a href='https://leetcode.com/AGilbertDev/'>Leetcode</a></h2>
+<h2><a href='https://agilbert.dev'>Portfolio</a>&emsp;<a href='https://www.linkedin.com/in/Agilbertdev/'>Linkedin</a>&emsp;<a href='https://leetcode.com/AGilbertDev/'>Leetcode</a></h2>
 
 [![Top Langs](https://github-readme-stats-woad-six-78.vercel.app/api/top-langs/?username=AGilbertDev&layout=compact)](https://github.com/AGilbertDev/github-readme-stats)
 
