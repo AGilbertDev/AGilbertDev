@@ -1,4 +1,4 @@
-<h1>Hello, I'm a Programmer and Computer Science student.</h1>
+<h1>Hello, I'm a Web Developer and Computer Science student.</h1>
 <h2><a href='https://agilbert.dev'>Portfolio</a>&emsp;<a href='https://www.linkedin.com/in/AGilbertDev/'>Linkedin</a>&emsp;<a href='https://leetcode.com/AGilbertDev/'>Leetcode</a></h2>
 
 [![Top Langs](https://github-readme-stats-woad-six-78.vercel.app/api/top-langs/?username=AGilbertDev&layout=compact)](https://github.com/agilbertdev/github-readme-stats)
