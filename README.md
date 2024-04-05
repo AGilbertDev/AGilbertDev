@@ -1,5 +1,6 @@
 <h1>Hello, I'm a Full Stack Developer and Computer Science student.</h1>
 <h2><a href='https://agilbert.dev'>Portfolio</a>&emsp;<a href='https://www.linkedin.com/in/AGilbertDev/'>Linkedin</a>&emsp;<a href='https://leetcode.com/AGilbertDev/'>Leetcode</a></h2>
+<p>I like creating all sorts of apps for the web, mobile or desktop.</p>
 
 [![Top Langs](https://github-readme-stats-woad-six-78.vercel.app/api/top-langs/?username=AGilbertDev&layout=compact)](https://github.com/agilbertdev/github-readme-stats)
 
