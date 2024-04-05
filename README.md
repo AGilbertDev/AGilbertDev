@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats-woad-six-78.vercel.app/api/top-langs/?username=AGilbertDev&layout=compact)](https://github.com/agilbertdev/github-readme-stats)
 
 <h2>My stack</h2>
-<p>Most of my time is spent in web development. However, I also have some experience with android and desktop apps using Java. I'm most proficient using Javascript, PHP, Java and Python, although I'm now focusing on learning C# and .NET, because that's where most jobs are.  I'm also familiar with OOP and the MVC architecture. Angular is on my wishlist. I learn new skills everyday.</p>
+<p>Most of my time is spent in web development. However, I also have some experience with android and desktop apps using Java. I'm most proficient using Javascript, PHP, Java and Python, although I'm now focusing on learning C# and .NET, because that's where most jobs are.  I'm also familiar with OOP and the MVC architecture. Angular is on my wishlist. I learn new skills everyday, and that's what motivates me to wake up in the morning.</p>
 <h3>Back-end</h3>
 <div>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/></code>
