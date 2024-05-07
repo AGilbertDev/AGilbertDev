@@ -1,6 +1,6 @@
 <h1>Hello, I'm a Full Stack Developer and Computer Science student.</h1>
 <p>I like creating all sorts of apps for the web, mobile and desktop.</p>
-<p>Most of my time is spent in web development. However, I also have some experience with android and desktop apps using Java. I'm most proficient using Javascript, PHP, Java and Python, although I'm now focusing on learning C# and .NET, because that's where the jobs are.  I'm also familiar with OOP and the MVC architecture. Angular is on my wishlist.</p>
+<p>Most of my time is spent in web development. However, I also have some experience with android and desktop apps using Java. I'm most proficient using Javascript, PHP, Java and Python, although I'm now focusing on learning C# and .NET. I'm also familiar with OOP and the MVC architecture. Angular is on my wishlist.</p>
 <h2><a href='https://agilbert.dev'>Portfolio</a>&emsp;<a href='https://www.linkedin.com/in/agilbertdev/'>Linkedin</a>&emsp;<a href='https://leetcode.com/AGilbertDev/'>Leetcode</a></h2>
 
 [![Top Langs](https://github-readme-stats-woad-six-78.vercel.app/api/top-langs/?username=agilbertdev&layout=compact)](https://github.com/agilbertdev/github-readme-stats)
