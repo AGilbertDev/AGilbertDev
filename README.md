@@ -3,7 +3,7 @@
 <p>Most of my time is spent in web development using PHP and Javascript, but I also have some experience in desktop and mobile applications using Python and Java. I'm now focusing on adding C#, .NET Core, and Angular to my stack.</p>
 <h2><a href='https://agilbert.dev'>Portfolio</a>&emsp;<a href='https://www.linkedin.com/in/AGilbertDev/'>Linkedin</a>&emsp;<a href='https://leetcode.com/AGilbertDev/'>Leetcode</a></h2>
 
-[![Top Langs](https://github-readme-stats-woad-six-78.vercel.app/api/top-langs/?username=agilbertdev&layout=compact)](https://github.com/agilbertdev/github-readme-stats)
+[![Top Langs](https://github-readme-stats-woad-six-78.vercel.app/api/top-langs/?username=AGilbertDev&layout=compact)](https://github.com/AGilbertDev/github-readme-stats)
 
 <h2>My stack</h2>
 <table>
