@@ -1,7 +1,7 @@
 <h1>Hello, I'm a Full Stack Developer and Computer Science student.</h1>
 <p>I like creating all sorts of apps for the web, desktop, and mobile.</p>
 <p>Most of my time is spent in web development using PHP and Javascript, but I also have some experience in desktop and mobile applications using Python and Java. I'm now focusing on adding C#, .NET Core, and Angular to my stack.</p>
-<h2><a href='https://agilbert.dev'>Portfolio</a>&emsp;<a href='https://www.linkedin.com/in/agilbertdev/'>Linkedin</a>&emsp;<a href='https://leetcode.com/AGilbertDev/'>Leetcode</a></h2>
+<h2><a href='https://agilbert.dev'>Portfolio</a>&emsp;<a href='https://www.linkedin.com/in/AGilbertDev/'>Linkedin</a>&emsp;<a href='https://leetcode.com/AGilbertDev/'>Leetcode</a></h2>
 
 [![Top Langs](https://github-readme-stats-woad-six-78.vercel.app/api/top-langs/?username=agilbertdev&layout=compact)](https://github.com/agilbertdev/github-readme-stats)
 
