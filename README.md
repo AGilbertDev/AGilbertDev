@@ -5,7 +5,7 @@
 
 [![Top Langs](https://github-readme-stats-woad-six-78.vercel.app/api/top-langs/?username=AGilbertDev&layout=compact)](https://github.com/AGilbertDev/github-readme-stats)
 
-<h2>My Skills</h2>
+<h2>My Tech Stack</h2>
 <table>
 	<thead>
 		<tr>
