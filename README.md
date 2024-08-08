@@ -1,3 +1,4 @@
+<img src="https://komarev.com/ghpvc/?username=AGilbertDev&color=brightgreen" alt="watching_count" />
 <h1>Hello, I'm a Full Stack Developer and Computer Science student.</h1>
 <p>I like creating all sorts of apps for the web, desktop, and mobile.</p>
 <p>I spend most of my time creating websites with PHP, React, TypeScript, and PostgreSQL, but I'm also interested in learning the MERN stack and C#/.NET.</p>
