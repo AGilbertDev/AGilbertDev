@@ -1,6 +1,6 @@
 <h1>Hello, I'm a Full Stack Developer and Computer Science student.</h1>
 <p>I like creating all sorts of apps for the web, desktop, and mobile.</p>
-<p>I spend most of my time creating websites with PHP, React, TypeScript, and PostgreSQL, but I'm also interested in learning the MERN stack and C#/.NET.</p>
+<p>I spend most of my time creating websites with PHP, React, TypeScript, and PostgreSQL, but I'm also interested in learning other stacks.</p>
 <h2><a href='https://agilbert.dev'>Portfolio</a>&emsp;<a href='https://www.linkedin.com/in/AGilbertDev/'>Linkedin</a>&emsp;<a href='https://leetcode.com/AGilbertDev/'>Leetcode</a></h2>
 
 [![Top Langs](https://github-readme-stats-alexandre-gilberts-projects.vercel.app/api/top-langs/?username=AGilbertDev&layout=compact)](https://github.com/AGilbertDev/github-readme-stats)
@@ -21,7 +21,7 @@
 				<img width="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/>
     			</td>
        			<td>
-				<img width="50" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" alt="Vue.js" title="Vue.js"/>
+				<img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
 				<img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
 				<img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/>
 				<img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
@@ -53,7 +53,7 @@
 				<img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/>
 			</td>
 			<td>
-				<img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
+				<img width="50" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" alt="Vue.js" title="Vue.js"/>
 				<img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/>
 				<img width="50" src="https://user-images.githubusercontent.com/25181517/190887639-d0ba4ec9-ddbe-45dd-bea1-4db83846503e.png" alt="Chakra UI" title="Chakra UI"/>
 			</td>
