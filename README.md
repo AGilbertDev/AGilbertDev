@@ -3,7 +3,7 @@
 <p>I spend most of my time creating websites with PHP, React, TypeScript, and PostgreSQL, but I'm also interested in learning other stacks.</p>
 <h2><a href='https://agilbert.dev'>Portfolio</a>&emsp;<a href='https://www.linkedin.com/in/AGilbertDev/'>Linkedin</a>&emsp;<a href='https://leetcode.com/AGilbertDev/'>Leetcode</a></h2>
 
-[![Top Langs](https://github-readme-stats-alexandre-gilberts-projects.vercel.app/api/top-langs/?username=AGilbertDev&layout=compact)](https://github.com/AGilbertDev/github-readme-stats)
+[![Top Langs](https://github-readme-stats-alexandre-gilberts-projects.vercel.app/api/top-langs/?username=aaa&layout=compact)](https://github.com/aaa/github-readme-stats)
 
 <h2>My Main stack</h2>
 <table>
