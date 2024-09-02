@@ -7,10 +7,10 @@
 
 <h2>My Main stack</h2>
 	<div>
-		<img width="72" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/7e9599e9-0570-4bb6-b17f-676ed589912f" alt="Bun.js" title="Bun.js"/>
-		<img width="72" src="img/ElysiaJS.png" alt="Elysia.js" title="Elysia.js"/>
+		<img width="64" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/7e9599e9-0570-4bb6-b17f-676ed589912f" alt="Bun.js" title="Bun.js"/>
+		<img width="64" src="img/ElysiaJS.png" alt="Elysia.js" title="Elysia.js"/>
 		<img width="72" src="img/NeonPostgres.png" alt="Neon Postgres" title="Neon Postgres"/>
-		<img width="72" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" alt="Vue.js" title="Vue.js"/>
+		<img width="64" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" alt="Vue.js" title="Vue.js"/>
 	</div>
 	<div>
 		<img width="40" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/>
