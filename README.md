@@ -68,4 +68,9 @@
 		<img width="50" src="img/004-movies.png" alt="Movies/TV Shows" title="Movies/TV Shows"/>
 		<img width="50" src="img/003-gamepad.png" alt="Viedo Games" title="Video Games"/>
 	</div>
-
+<h2>Languages</h2>
+	<div>
+		<img width="50" src="img/french.png" alt="French" title="French"/>
+		<img width="50" src="img/english.png" alt="English" title="English"/>
+		
+	</div>
