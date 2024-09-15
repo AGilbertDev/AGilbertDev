@@ -72,5 +72,4 @@
 	<div>
 		<img width="50" src="img/french.png" alt="French" title="French"/>
 		<img width="50" src="img/english.png" alt="English" title="English"/>
-		
 	</div>
