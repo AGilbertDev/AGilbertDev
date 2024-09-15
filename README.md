@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alex. I'm a Fullstack Web Dev intern and Computer Science student.</h1>
+<h1>Hi, I'm Alex. I'm a fullstack Web Dev intern and Computer Science student.</h1>
 
 <h2><a href='https://agilbert.dev'>Portfolio</a>&emsp;<a href='https://www.linkedin.com/in/AGilbertDev/'>Linkedin</a>&emsp;<a href='https://leetcode.com/AGilbertDev/'>Leetcode</a></h2>
 
