@@ -56,4 +56,15 @@
 	</tbody>
 </table>
 
+<h2>Hobbies</h2>
+	<div>
+		<img width="50" src="img/001-horseback.png" alt="Horseback Riding" title="Horseback Riding"/>
+		<img width="50" src="img/006-archery.png" alt="Archery" title="Archery"/>
+		<img width="50" src="img/002-kayak.png" alt="Kayak" title="Kayak"/>
+		<img width="50" src="img/007-skiing.png" alt="Cross-Country Skiing" title="Cross-Country Skiing"/>
+		<img width="50" src="img/008-hiking.png" alt="Hiking" title="Hiking"/>
+		<img width="50" src="img/005-bicycle.png" alt="Bicycle" title="Bicycle"/>
+		<img width="50" src="img/004-movies.png" alt="Movies/TV Shows" title="Movies/TV Shows"/>
+		<img width="50" src="img/003-gamepad.png" alt="Viedo Games" title="Video Games"/>
+	</div>
 
