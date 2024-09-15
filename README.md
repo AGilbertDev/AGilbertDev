@@ -6,7 +6,7 @@
 
 <h2>Main stack</h2>
 	<div>
-		<img width="60" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_prisma_icon_130444.png" alt="Prisma" title="Prisma"/>
+		<div><img width="60" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_prisma_icon_130444.png" alt="Prisma" title="Prisma"/><br>Prisma</div>
 		<img width="60" src="img/ElysiaJS.png" alt="Elysia.js" title="Elysia.js"/>
     		<img width="60" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ebd92b15-970a-45b8-8c4c-0ecf69b17cdc" alt="Nuxt.js" title="Nuxt.js"/>	
 		<img width="60" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/7e9599e9-0570-4bb6-b17f-676ed589912f" alt="Bun.js" title="Bun.js"/>
