@@ -7,16 +7,22 @@
 <h2>Main stack</h2>
 	<table>
 		<tr>
-			<td><img width="60" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_prisma_icon_130444.png" alt="Prisma" title="Prisma"/></td>
-			<td><img width="60" src="img/ElysiaJS.png" alt="Elysia.js" title="Elysia.js"/></td>
-    			<td><img width="60" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ebd92b15-970a-45b8-8c4c-0ecf69b17cdc" alt="Nuxt.js" title="Nuxt.js"/></td>
-			<td><img width="60" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/7e9599e9-0570-4bb6-b17f-676ed589912f" alt="Bun.js" title="Bun.js"/></td>
-		</tr>
-		<tr>
-			<h5>Prisma</h5>
-			<h5>Elysia</h5>
-			<h5>Nuxt</h5>
-			<h5>Bun</h5>
+			<td align='center'>
+				<img width="60" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_prisma_icon_130444.png" alt="Prisma" title="Prisma"/>
+				<h3>Prisma</h3>
+			</td>
+			<td align='center'>
+				<img width="60" src="img/ElysiaJS.png" alt="Elysia.js" title="Elysia.js"/>
+				<h3>Elysia</h3>
+			</td>
+    			<td align='center'>
+				<img width="60" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ebd92b15-970a-45b8-8c4c-0ecf69b17cdc" alt="Nuxt.js" title="Nuxt.js"/>
+				<h3>Nuxt</h3>
+			</td>
+			<td align='center'>
+				<img width="60" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/7e9599e9-0570-4bb6-b17f-676ed589912f" alt="Bun.js" title="Bun.js"/>
+				<h3>Bun</h3>
+			</td>
 		</tr>
 	</table>
 
