@@ -60,7 +60,7 @@
 	<div>
 		<img width="50" src="img/001-horseback.png" alt="Horseback Riding" title="Horseback Riding"/>
 		<img width="50" src="img/006-archery.png" alt="Archery" title="Archery"/>
-		<img width="50" src="img/002-kayak.png" alt="Kayak" title="Kayak"/>
+		<img width="50" src="img/002-kayak.png" alt="Kayaking" title="Kayaking"/>
 		<img width="50" src="img/007-skiing.png" alt="Cross-Country Skiing" title="Cross-Country Skiing"/>
 		<img width="50" src="img/snowboard.png" alt="Snowboarding" title="Snowboarding"/>
 		<img width="50" src="img/008-hiking.png" alt="Hiking" title="Hiking"/>
