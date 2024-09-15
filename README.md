@@ -10,7 +10,7 @@
 		<img width="60" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/7e9599e9-0570-4bb6-b17f-676ed589912f" alt="Bun.js" title="Bun.js"/>
 	</div>
 
-<h2>My Skills</h2>
+<h2>My Other Tech Skills</h2>
 <table>
 	<thead>
 		<tr>
