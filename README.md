@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats-alexandre-gilberts-projects.vercel.app/api/top-langs/?username=AGilbertDev&layout=compact)](https://github.com/AGilbertDev/github-readme-stats)
 
-<h2>My Main stack</h2>
+<h2>Main stack</h2>
 	<div>
 		<img width="60" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/>
 		<img width="60" src="img/ElysiaJS.png" alt="Elysia.js" title="Elysia.js"/>
@@ -10,7 +10,7 @@
 		<img width="60" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/7e9599e9-0570-4bb6-b17f-676ed589912f" alt="Bun.js" title="Bun.js"/>
 	</div>
 
-<h2>My Other Tech Skills</h2>
+<h2>Other Tech Skills</h2>
 <table>
 	<thead>
 		<tr>
