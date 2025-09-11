@@ -1,4 +1,4 @@
-<h1>Bonjour/Hi, I'm Alex! I'm a fullstack Web Dev.</h1>
+<h1>Hi, I'm Alex! I'm a fullstack Web Dev.</h1>
 
 My favorite stack at the moment is Vue.js (Nuxt) + Typescript. I also work with Java, PHP, and Python.
 
