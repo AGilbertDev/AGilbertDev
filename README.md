@@ -1,6 +1,6 @@
 <h1>Hi, I'm Alex! I'm a fullstack developer.</h1>
 
-I like to create all sorts of things. I am primarily interested in web development and full stack apps. My favorite stack at the moment is a combo of Vue.js/Nuxt.js with Typescript. I use a few ORMs with PostgreSQL and MySQLi to handle data, and multiple components libraries for the frontend.
+I am interested in web development and full stack apps. My favorite stack at the moment is a combo of Vue.js/Nuxt.js with Typescript. I use a few ORMs with PostgreSQL and MySQLi to handle data, and multiple components libraries for the frontend.
 
 <h2><a href='https://agilbert.dev'>Portfolio</a>&emsp;<a href='https://www.linkedin.com/in/AGilbertDev/'>Linkedin</a>&emsp;<a href='https://leetcode.com/AGilbertDev/'>Leetcode</a></h2>
 
