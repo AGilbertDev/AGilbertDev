@@ -1,4 +1,3 @@
-<img width="1800" height="792" alt="Github_Banner" src="https://github.com/user-attachments/assets/1165bd4e-6db5-4194-8e9e-d851c595e90f" />
 <h1>Hi, I'm Alex! I'm a fullstack developer.</h1>
 
 I am interested in web development and full stack apps. My favorite stack at the moment is a combo of Vue.js/Nuxt.js with Typescript. I use a few ORMs, and PostgreSQL to handle data, and multiple components libraries for the frontend.
