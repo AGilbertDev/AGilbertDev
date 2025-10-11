@@ -2,7 +2,7 @@
 
 I am interested in web development and full stack apps. My favorite stack at the moment is a combo of Vue.js/Nuxt.js with Typescript. I use a few ORMs, and PostgreSQL to handle data, and multiple components libraries and Pinia for state management on the frontend. This GitHub profile contains personal projects that I am free to share publicly. I will update my portfolio with more relevant projects reflecting my most recent experience soon.
 
-<h2><a href='https://agilbert.dev'>Portfolio</a>&emsp;<a href='https://www.linkedin.com/in/AGilbertDev/'>Linkedin</a>&emsp;<a href='https://leetcode.com/AGilbertDev/'>Leetcode</a></h2>
+<h2><a href='https://agilbert.dev'>Portfolio</a>&emsp;<a href='https://www.linkedin.com/in/AGilbertDev/'>Linkedin</a>&emsp;<a href='https://leetcode.com/AGilbertDev/'>Leetcode</a>;<a href='https://github.com/AGilbertDev/my-resume/blob/main/public/AlexandreGilbert_CV_2025.pdf'>Resume</a></h2>
 
 [![Top Langs](https://github-readme-stats-alexandre-gilberts-projects.vercel.app/api/top-langs/?username=AGilbertDev&layout=compact)](https://github.com/AGilbertDev/github-readme-stats)
 
