@@ -10,14 +10,6 @@ I am interested in web development and full stack apps. My favorite stack at the
 	<table>
 		<tr>
 			<td align='center'>
-				<img height="60" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/7e9599e9-0570-4bb6-b17f-676ed589912f" alt="Bun.js" title="Bun.js"/>
-				<h3>Bun</h3>
-			</td>
-			<td align='center'>
-				<img height="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/>
-				<h3>PostgreSQL</h3>
-			</td>
-			<td align='center'>
 				<img height="60" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/>
 				<h3>TypeScript</h3>
 			</td>
@@ -28,6 +20,10 @@ I am interested in web development and full stack apps. My favorite stack at the
     			<td align='center'>
 				<img height="60" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ebd92b15-970a-45b8-8c4c-0ecf69b17cdc" alt="Nuxt.js" title="Nuxt.js"/>
 				<h3>Nuxt</h3>
+			</td>
+			<td align='center'>
+				<img height="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/>
+				<h3>PostgreSQL</h3>
 			</td>
 		</tr>
 	</table>
