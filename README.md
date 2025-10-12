@@ -1,30 +1,51 @@
-# Hi, I'm Alex! I'm a fullstack developer.
+<h1>Hi, I'm Alex! I'm a fullstack developer.</h1>
+
 I am interested in web development and full stack apps. My favorite stack at the moment is a combo of Vue.js/Nuxt.js with Typescript. I use a few ORMs, and PostgreSQL to handle data, and multiple components libraries and Pinia for state management on the frontend. This GitHub profile contains personal projects that I am free to share publicly. I will update my portfolio with more relevant projects reflecting my most recent experience soon.
-## 
-[Portfolio](https://agilbert.dev) | [Linkedin](https://www.linkedin.com/in/AGilbertDev/) | [Leetcode](https://leetcode.com/AGilbertDev/)
-<!--	[Resume](https://github.com/AGilbertDev/my-resume/blob/main/public/AlexandreGilbert_CV_2025.pdf)-->
+
+<h2><a href='https://agilbert.dev'>Portfolio</a>&emsp;<a href='https://www.linkedin.com/in/AGilbertDev/'>Linkedin</a>&emsp;<a href='https://leetcode.com/AGilbertDev/'>Leetcode</a><!--&emsp;<a href='https://github.com/AGilbertDev/my-resume/blob/main/public/AlexandreGilbert_CV_2025.pdf'>Resume</a></h2>-->
+
 [![Top Langs](https://github-readme-stats-alexandre-gilberts-projects.vercel.app/api/top-langs/?username=AGilbertDev&layout=compact)](https://github.com/AGilbertDev/github-readme-stats)
 
-## Main stack
+<h2>Main stack</h2>
+	<table>
+		<tr>
+			<td align='center'>
+				<img height="60" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/7e9599e9-0570-4bb6-b17f-676ed589912f" alt="Bun.js" title="Bun.js"/>
+				<h3>Bun</h3>
+			</td>
+			<td align='center'>
+				<img height="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/>
+				<h3>PostgreSQL</h3>
+			</td>
+			<td align='center'>
+				<img height="60" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/>
+				<h3>TypeScript</h3>
+			</td>
+			<td align='center'>
+				<img height="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png" alt="Vue.js" title="Vue.js"/>	
+				<h3>Vue</h3>
+			</td>
+    			<td align='center'>
+				<img height="60" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ebd92b15-970a-45b8-8c4c-0ecf69b17cdc" alt="Nuxt.js" title="Nuxt.js"/>
+				<h3>Nuxt</h3>
+			</td>
+		</tr>
+	</table>
 
-<img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/7e9599e9-0570-4bb6-b17f-676ed589912f" height="40"/> Bun.js  <br>
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" height="40"/> PostgreSQL  <br>
-<img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" height="40"/> TypeScript  <br>
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png" height="40"/> Vue.js  <br>
-<img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ebd92b15-970a-45b8-8c4c-0ecf69b17cdc" height="40"/> Nuxt.js  <br>
-
-## Hobbies
-><	width="50" src="img/001-horseback.png" alt="Horseback Riding" title="Horseback Riding"/>
-<	width="50" src="img/006-archery.png" alt="Archery" title="Archery"/>
-<	width="50" src="img/002-kayak.png" alt="Kayaking" title="Kayaking"/>
-<	width="50" src="img/007-skiing.png" alt="Cross-Country Skiing" title="Cross-Country Skiing"/>
-<	width="50" src="img/snowboard.png" alt="Snowboarding" title="Snowboarding"/>
-<	width="50" src="img/008-hiking.png" alt="Hiking" title="Hiking"/>
-<	width="50" src="img/005-bicycle.png" alt="Cycling" title="Cycling"/>
-<	width="50" src="img/004-movies.png" alt="Movies/TV Shows" title="Movies/TV Shows"/>
-<	width="50" src="img/003-gamepad.png" alt="Viedo Games" title="Video Games"/>
->
-## Languages
-><	width="50" src="img/french.png" alt="French" title="French"/>
-<	width="50" src="img/english.png" alt="English" title="English"/>
->
+<h2>Hobbies</h2>
+	<div>
+		<img width="50" src="img/001-horseback.png" alt="Horseback Riding" title="Horseback Riding"/>
+		<img width="50" src="img/006-archery.png" alt="Archery" title="Archery"/>
+		<img width="50" src="img/002-kayak.png" alt="Kayaking" title="Kayaking"/>
+		<img width="50" src="img/007-skiing.png" alt="Cross-Country Skiing" title="Cross-Country Skiing"/>
+		<img width="50" src="img/snowboard.png" alt="Snowboarding" title="Snowboarding"/>
+		<img width="50" src="img/008-hiking.png" alt="Hiking" title="Hiking"/>
+		<img width="50" src="img/005-bicycle.png" alt="Cycling" title="Cycling"/>
+		<img width="50" src="img/004-movies.png" alt="Movies/TV Shows" title="Movies/TV Shows"/>
+		<img width="50" src="img/003-gamepad.png" alt="Viedo Games" title="Video Games"/>
+	</div>
+<h2>Languages</h2>
+	<div>
+		<img width="50" src="img/french.png" alt="French" title="French"/>
+		<img width="50" src="img/english.png" alt="English" title="English"/>
+	</div>
