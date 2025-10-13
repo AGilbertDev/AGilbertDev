@@ -1,4 +1,4 @@
-# Why hellooooo, theeere! I'm Alex!
+# Why, hellooooo theeere! I'm Alex!
 
 I am a full stack developer. I like to build things that look nice, and I like it when it works! What I am most interested in are full stack apps, web development, and games, from time to time!
 
