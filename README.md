@@ -18,7 +18,7 @@ For more info about my journey and experience as a developer, feel free to look 
 [![My Skills](https://skillicons.dev/icons?i=typescript,vue,nuxt,tailwindcss,pinia&theme=light)](https://skillicons.dev)
 
 ### Backend
-[![My Skills](https://skillicons.dev/icons?i=nodejs,bun,postgresql&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,bun,postgresql,vercel&theme=light)](https://skillicons.dev)
 
 ## Hobbies
 <div>
