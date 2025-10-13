@@ -8,7 +8,7 @@ What keeps me motivated is learning new skills, practicing with personal project
 
 For more info about my journey and experience as a developer, feel free to look at my linkedin profile and porfolio.
 
-## <a href='https://www.linkedin.com/in/AGilbertDev/'>Linkedin</a>&emsp;<a href='https://agilbert.dev'>Portfolio</a>&emsp;<a href='https://github.com/AGilbertDev/my-resume/blob/main/public/AlexandreGilbert_CV_2025.pdf'>Resume</a>
+## <a href='https://www.linkedin.com/in/AGilbertDev/'>Linkedin</a>&emsp;<a href='https://agilbert.dev'>Portfolio</a>&emsp;<a href='https://leetcode.com/AGilbertDev'>Leetcode</a>&emsp;<a href='https://github.com/AGilbertDev/my-resume/blob/main/public/AlexandreGilbert_CV_2025.pdf'>Resume</a>
 
 [![Top Langs](https://github-readme-stats-alexandre-gilberts-projects.vercel.app/api/top-langs/?username=AGilbertDev&layout=compact)](https://github.com/AGilbertDev/github-readme-stats)
 
