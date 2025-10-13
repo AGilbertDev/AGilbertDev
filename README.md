@@ -1,35 +1,27 @@
-<h1>Hi, I'm Alex! I'm a fullstack developer.</h1>
+# Why hellooooo, theeere! I'm Alex!
 
-I am interested in web development and full stack apps. My favorite stack at the moment is a combo of Vue.js/Nuxt.js with Typescript. I use a few ORMs, and PostgreSQL to handle data, and multiple components libraries and Pinia for state management on the frontend. This GitHub profile contains personal projects that I am free to share publicly. I will update my portfolio with more relevant projects reflecting my most recent experience soon.
+I am a full stack developer. I like to build things that look nice, and I like it when it works! What I am most interested in are full stack apps, web development, and games, from time to time!
 
-<h2><a href='https://agilbert.dev'>Portfolio</a>&emsp;<a href='https://www.linkedin.com/in/AGilbertDev/'>Linkedin</a>&emsp;<a href='https://leetcode.com/AGilbertDev/'>Leetcode</a><!--&emsp;<a href='https://github.com/AGilbertDev/my-resume/blob/main/public/AlexandreGilbert_CV_2025.pdf'>Resume</a></h2>-->
+I use mostly Typescript, at the moment, in addition to vue.js and nuxt.js as my frontend framework. I use PostgreSQL and some ORMs for data management, Pinia for complex object state management on the frontend and a few TailwindCSS compatible components libraries to help me build clean UIs. I also have some experience with PHP, Java and Python! Aside from technology, my vast experience in multiple fields prior to coding taught me a lot of soft skills. I value respect, team work, and quality.
+
+What keeps me motivated is learning new skills, practicing with personal projects, and adding more tools to my arsenal. I spend a lot of free time doing it! The projects on this github profile are personal projects that I am allowed to share publicly. I'll keep updating regularly.
+
+For more info about my journey and experience as a developer, feel free to look at my linkedin profile and porfolio.
+
+## <a href='https://www.linkedin.com/in/AGilbertDev/'>Linkedin</a>&emsp;<a href='https://agilbert.dev'>Portfolio</a>&emsp;<a href='https://github.com/AGilbertDev/my-resume/blob/main/public/AlexandreGilbert_CV_2025.pdf'>Resume</a>
 
 [![Top Langs](https://github-readme-stats-alexandre-gilberts-projects.vercel.app/api/top-langs/?username=AGilbertDev&layout=compact)](https://github.com/AGilbertDev/github-readme-stats)
 
-<h2>Main stack</h2>
-	<table>
-		<tr>
-			<td align='center'>
-				<img height="60" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/>
-				<h3>TypeScript</h3>
-			</td>
-			<td align='center'>
-				<img height="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png" alt="Vue.js" title="Vue.js"/>	
-				<h3>Vue</h3>
-			</td>
-    			<td align='center'>
-				<img height="60" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ebd92b15-970a-45b8-8c4c-0ecf69b17cdc" alt="Nuxt.js" title="Nuxt.js"/>
-				<h3>Nuxt</h3>
-			</td>
-			<td align='center'>
-				<img height="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/>
-				<h3>PostgreSQL</h3>
-			</td>
-		</tr>
-	</table>
+## Main stack
 
-<h2>Hobbies</h2>
-	<div>
+### Frontend
+[![My Skills](https://skillicons.dev/icons?i=typescript,vue,nuxt,tailwindcss,pinia&theme=light)](https://skillicons.dev)
+
+### Backend
+[![My Skills](https://skillicons.dev/icons?i=nodejs,bun,postgresql&theme=light)](https://skillicons.dev)
+
+## Hobbies
+<div>
 		<img width="50" src="img/001-horseback.png" alt="Horseback Riding" title="Horseback Riding"/>
 		<img width="50" src="img/006-archery.png" alt="Archery" title="Archery"/>
 		<img width="50" src="img/002-kayak.png" alt="Kayaking" title="Kayaking"/>
@@ -39,9 +31,11 @@ I am interested in web development and full stack apps. My favorite stack at the
 		<img width="50" src="img/005-bicycle.png" alt="Cycling" title="Cycling"/>
 		<img width="50" src="img/004-movies.png" alt="Movies/TV Shows" title="Movies/TV Shows"/>
 		<img width="50" src="img/003-gamepad.png" alt="Viedo Games" title="Video Games"/>
-	</div>
-<h2>Languages</h2>
-	<div>
+</div>
+	
+## Languages
+<div>
 		<img width="50" src="img/french.png" alt="French" title="French"/>
 		<img width="50" src="img/english.png" alt="English" title="English"/>
-	</div>
+</div>
+
