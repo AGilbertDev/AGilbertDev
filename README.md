@@ -2,7 +2,7 @@
 
 I am a full stack software developer! I am mostly interested in full stack apps, web development, and games.
 
-The tech I use includes Typescript, as well as vue.js and nuxt.js, for the frontend. I rely on PostgreSQL and some ORMs for data management, Pinia and Tanstack for complex states and queries, and a few TailwindCSS compatible components libraries to help me build clean UIs. I use vitest, playwright, and other tools to check the quality of my code with unit testing, mutation testing and e2e testing. I have some experience with PHP, Java and Python, too. 
+The tech I use includes Typescript, as well as Vue.js and Nuxt.js, for the frontend. I rely on PostgreSQL and some ORMs for data management, Pinia and Tanstack for complex states and queries, and a few TailwindCSS compatible components libraries to help me build clean UIs. I use vitest, playwright, and other tools to check the quality of my code with unit testing, mutation testing and e2e testing. I have some experience with PHP, Java and Python, too. 
 
 Prior to coding, I worked in multiple fields that taught me a lot of soft skills. I value respect, team work, quality control, and efficiency.
 
