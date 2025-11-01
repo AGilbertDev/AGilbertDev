@@ -1,10 +1,12 @@
 # Why, hellooooo theeere! I'm Alex!
 
-I am a full stack developer. I like to build things that look nice, and I like it when it works! What I am most interested in are full stack apps, web development, and games, from time to time!
+Full stack software developer here! I am mostly interested in full stack apps, web development, and games.
 
-I use mostly Typescript, at the moment, in addition to vue.js and nuxt.js as my frontend framework. I use PostgreSQL and some ORMs for data management, Pinia for complex object state management on the frontend and a few TailwindCSS compatible components libraries to help me build clean UIs. I also have some experience with PHP, Java and Python! Aside from technology, my vast experience in multiple fields prior to coding taught me a lot of soft skills. I value respect, team work, and quality.
+The tech I use includes Typescript, as well as vue.js and nuxt.js for the frontend. I rely on PostgreSQL and some ORMs for data management, Pinia and Tanstack for complex states and queries, and a few TailwindCSS compatible components libraries to help me build clean UIs. I use vitest, playwright, and other tools to check the quality of my code with unit testing, mutation testing and e2e testing. I have some experience with PHP, Java and Python, too. 
 
-What keeps me motivated is learning new skills, practicing with personal projects, and adding more tools to my arsenal. I spend a lot of free time doing it! The projects on this github profile are personal projects that I am allowed to share publicly. I'll keep updating regularly.
+Prior to coding, I worked in multiple fields that taught me a lot of soft skills. I value respect, team work, quality control, and efficiency.
+
+What keeps me motivated is learning new things, experimenting with personal projects, and adding new tools to my arsenal. The projects on this github profile are personal projects that I am allowed to share publicly.
 
 For more info about my journey and experience as a developer, feel free to look at my linkedin profile and porfolio.
 
