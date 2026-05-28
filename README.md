@@ -16,26 +16,26 @@ The repos here are personal projects I can share publicly. My LinkedIn and portf
 
 ### Frontend
 <div>
-  <img src="https://skillicons.dev/icons?i=typescript" title="TypeScript" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=vue" title="Vue.js" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=nuxt" title="Nuxt.js" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=tailwindcss" title="Tailwind CSS" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=pinia" title="Pinia" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=typescript&theme=light" title="TypeScript" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=vue&theme=light" title="Vue.js" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=nuxt&theme=light" title="Nuxt.js" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=tailwindcss&theme=light" title="Tailwind CSS" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=pinia&theme=light" title="Pinia" width="48" height="48"/>
 </div>
 
 ### Backend
 <div>
-  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=bun" title="Bun" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=elysia" title="Elysia" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=light" title="Node.js" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=bun&theme=light" title="Bun" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=postgresql&theme=light" title="PostgreSQL" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=elysia&theme=light" title="Elysia" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=vercel&theme=light" title="Vercel" width="48" height="48"/>
 </div>
 
 ### Tooling
 <div>
-  <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=vitest" title="Vitest" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=githubactions&theme=light" title="GitHub Actions" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=vitest&theme=light" title="Vitest" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" title="Playwright" width="48" height="48"/>
   <img src="https://cdn.simpleicons.org/stryker" title="Stryker" width="48" height="48"/>
   <img src="https://cdn.simpleicons.org/n8n" title="n8n" width="48" height="48"/>
@@ -56,6 +56,6 @@ The repos here are personal projects I can share publicly. My LinkedIn and portf
 
 ## Languages
 <div>
-  <img width="50" src="img/quebec.svg" alt="French (Quebec)" title="French (Quebec)"/>
+  <img width="50" src="img/quebec.png" alt="French (Quebec)" title="French (Quebec)"/>
   <img width="50" src="img/english.png" alt="English" title="English"/>
 </div>
