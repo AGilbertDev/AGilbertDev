@@ -2,7 +2,7 @@
 
 Full stack developer at Hubelia, building production web apps in the cloud. I work on anything from e-commerce storefronts to complete internal management systems.
 
-My main interest right now is agentic AI tooling built for developers. I focus on the engineering side, building structured workflows with isolated execution, validation, and safety gates at each step rather than vibe coding. I also work on CI/CD test automation and build automated reports that post directly to pull requests so teams can catch issues before merge.
+My main work is full stack development. I try to use AI efficiently and integrate it into my dev workflow, exploring agent files, devcontainers, and workflow setups that make AI a useful productivity tool rather than a replacement. I've also set up automated testing and reports in CI so teams get clear feedback on every pull request.
 
 Before software, I spent about ten years in industrial and logistics environments. It taught me how to work under pressure, stay disciplined, and care about what gets shipped.
 
@@ -15,55 +15,19 @@ The repos here are personal projects I can share publicly. My LinkedIn and portf
 ## Main stack
 
 ### Frontend
-<div>
-  <img src="https://cdn.simpleicons.org/typescript" title="TypeScript" width="48" height="48"/>
-  <img src="https://cdn.simpleicons.org/vuedotjs" title="Vue.js" width="48" height="48"/>
-  <img src="https://cdn.simpleicons.org/nuxt" title="Nuxt.js" width="48" height="48"/>
-  <img src="https://cdn.simpleicons.org/tailwindcss" title="Tailwind CSS" width="48" height="48"/>
-  <img src="https://cdn.simpleicons.org/primevue" title="PrimeVue" width="48" height="48"/>
-  <img src="https://cdn.simpleicons.org/pinia" title="Pinia" width="48" height="48"/>
-</div>
+<img src="img/skill-typescript.png" alt="TypeScript" title="TypeScript" width="48" height="48"/>&emsp;<img src="img/skill-vue.png" alt="Vue.js" title="Vue.js" width="48" height="48"/>&emsp;<img src="img/skill-nuxt.png" alt="Nuxt.js" title="Nuxt.js" width="48" height="48"/>&emsp;<img src="img/skill-tailwindcss.png" alt="Tailwind CSS" title="Tailwind CSS" width="48" height="48"/>&emsp;<img src="img/skill-primevue.png" alt="PrimeVue" title="PrimeVue" width="48" height="48"/>&emsp;<img src="img/skill-pinia.png" alt="Pinia" title="Pinia" width="48" height="48"/>
 
 ### Backend
-<div>
-  <img src="https://cdn.simpleicons.org/bun" title="Bun" width="48" height="48"/>
-  <img src="img/elysia.svg" title="Elysia" width="48" height="48"/>
-  <img src="https://cdn.simpleicons.org/postgresql" title="PostgreSQL" width="48" height="48"/>
-  <img src="https://cdn.simpleicons.org/drizzle" title="Drizzle ORM" width="48" height="48"/>
-  <img src="https://cdn.simpleicons.org/meilisearch" title="Meilisearch" width="48" height="48"/>
-  <img src="https://cdn.simpleicons.org/vercel" title="Vercel" width="48" height="48"/>
-</div>
+<img src="img/skill-bun.png" alt="Bun" title="Bun" width="48" height="48"/>&emsp;<img src="img/skill-elysia.png" alt="Elysia" title="Elysia" width="48" height="48"/>&emsp;<img src="img/skill-postgresql.png" alt="PostgreSQL" title="PostgreSQL" width="48" height="48"/>&emsp;<img src="img/skill-drizzle.png" alt="Drizzle ORM" title="Drizzle ORM" width="48" height="48"/>&emsp;<img src="img/skill-meilisearch.png" alt="Meilisearch" title="Meilisearch" width="48" height="48"/>&emsp;<img src="img/skill-vercel.png" alt="Vercel" title="Vercel" width="48" height="48"/>
 
 ### State & Validation
-<div>
-  <img src="https://cdn.simpleicons.org/reactquery" title="TanStack Query" width="48" height="48"/>
-  <img src="https://cdn.simpleicons.org/zod" title="Zod" width="48" height="48"/>
-</div>
+<img src="img/skill-tanstack.png" alt="TanStack Query" title="TanStack Query" width="48" height="48"/>&emsp;<img src="img/skill-zod.png" alt="Zod" title="Zod" width="48" height="48"/>
 
 ### Tooling
-<div>
-  <img src="https://cdn.simpleicons.org/githubactions" title="GitHub Actions" width="48" height="48"/>
-  <img src="https://cdn.simpleicons.org/vitest" title="Vitest" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" title="Playwright" width="48" height="48"/>
-  <img src="https://cdn.simpleicons.org/stryker" title="Stryker" width="48" height="48"/>
-  <img src="https://cdn.simpleicons.org/n8n" title="n8n" width="48" height="48"/>
-</div>
+<img src="img/skill-githubactions.png" alt="GitHub Actions" title="GitHub Actions" width="48" height="48"/>&emsp;<img src="img/skill-vitest.png" alt="Vitest" title="Vitest" width="48" height="48"/>&emsp;<img src="img/skill-playwright.png" alt="Playwright" title="Playwright" width="48" height="48"/>&emsp;<img src="img/skill-stryker.png" alt="Stryker" title="Stryker" width="48" height="48"/>&emsp;<img src="img/skill-n8n.png" alt="n8n" title="n8n" width="48" height="48"/>
 
 ## Hobbies
-<div>
-  <img width="50" src="img/001-horseback.png" alt="Horseback Riding" title="Horseback Riding"/>
-  <img width="50" src="img/006-archery.png" alt="Archery" title="Archery"/>
-  <img width="50" src="img/002-kayak.png" alt="Kayaking" title="Kayaking"/>
-  <img width="50" src="img/007-skiing.png" alt="Cross-Country Skiing" title="Cross-Country Skiing"/>
-  <img width="50" src="img/snowboard.png" alt="Snowboarding" title="Snowboarding"/>
-  <img width="50" src="img/008-hiking.png" alt="Hiking" title="Hiking"/>
-  <img width="50" src="img/005-bicycle.png" alt="Cycling" title="Cycling"/>
-  <img width="50" src="img/004-movies.png" alt="Movies/TV Shows" title="Movies/TV Shows"/>
-  <img width="50" src="img/003-gamepad.png" alt="Video Games" title="Video Games"/>
-</div>
+<img src="img/001-horseback.png" alt="Horseback Riding" title="Horseback Riding" width="48" height="48"/>&emsp;<img src="img/006-archery.png" alt="Archery" title="Archery" width="48" height="48"/>&emsp;<img src="img/002-kayak.png" alt="Kayaking" title="Kayaking" width="48" height="48"/>&emsp;<img src="img/007-skiing.png" alt="Cross-Country Skiing" title="Cross-Country Skiing" width="48" height="48"/>&emsp;<img src="img/snowboard.png" alt="Snowboarding" title="Snowboarding" width="48" height="48"/>&emsp;<img src="img/008-hiking.png" alt="Hiking" title="Hiking" width="48" height="48"/>&emsp;<img src="img/005-bicycle.png" alt="Cycling" title="Cycling" width="48" height="48"/>&emsp;<img src="img/004-movies.png" alt="Movies/TV Shows" title="Movies/TV Shows" width="48" height="48"/>&emsp;<img src="img/003-gamepad.png" alt="Video Games" title="Video Games" width="48" height="48"/>
 
 ## Languages
-<div>
-  <img width="50" src="img/quebec.png" alt="French (Quebec)" title="French (Quebec)"/>
-  <img width="50" src="img/usa.png" alt="English" title="English"/>
-</div>
+<img src="img/quebec.png" alt="French (Quebec)" title="French (Quebec)" width="72" height="48"/>&emsp;<img src="img/usa.png" alt="English" title="English" width="72" height="48"/>
