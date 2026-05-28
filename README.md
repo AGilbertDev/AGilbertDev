@@ -23,7 +23,7 @@ The repos here are personal projects I can share publicly. My LinkedIn and portf
 ### State & Validation
 <img src="img/skill-tanstack.png" alt="TanStack Query" title="TanStack Query" width="48" height="48"/>&emsp;<img src="img/skill-zod.png" alt="Zod" title="Zod" width="48" height="48"/>
 
-### Tooling
+### Test Automation
 <img src="img/skill-githubactions.png" alt="GitHub Actions" title="GitHub Actions" width="48" height="48"/>&emsp;<img src="img/skill-vitest.png" alt="Vitest" title="Vitest" width="48" height="48"/>&emsp;<img src="img/skill-playwright.png" alt="Playwright" title="Playwright" width="48" height="48"/>&emsp;<img src="img/skill-stryker.png" alt="Stryker" title="Stryker" width="48" height="48"/>&emsp;<img src="img/skill-n8n.png" alt="n8n" title="n8n" width="48" height="48"/>
 
 ## Hobbies
