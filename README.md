@@ -10,7 +10,7 @@ The repos here are personal projects I can share publicly. My LinkedIn and portf
 
 ## <a href='https://www.linkedin.com/in/AGilbertDev/'>LinkedIn</a>&emsp;<a href='https://agilbert.dev'>Portfolio</a>&emsp;<a href='https://leetcode.com/AGilbertDev'>Leetcode</a>
 
-[![Top Langs](https://github-readme-stats-alexandre-gilberts-projects.vercel.app/api/top-langs/?username=AGilbertDev&layout=compact&exclude_repo=github-readme-stats,learn-cicd-typescript,IFT3913,ift3913-graphhopper,ift3913-tache3,Snake_Game,Othello,Portfolio,ARN,Debugging-Challenge,Animal_Refuge_App_2,Animal_Refuge_App,JokesWebApp,Student_Grading_App,Tailwind-CSS-practice,Basic-todo-list,basic-weather-app)](https://github.com/AGilbertDev/github-readme-stats)
+[![Top Langs](https://github-readme-stats-alexandre-gilberts-projects.vercel.app/api/top-langs/?username=AGilbertDev&layout=compact&exclude_repo=github-readme-stats,learn-cicd-typescript,IFT3913,ift3913-graphhopper,ift3913-tache3,Snake_Game,Othello,Portfolio,ARN,Debugging-Challenge,Animal_Refuge_App_2,Animal_Refuge_App,JokesWebApp,Student_Grading_App,Tailwind-CSS-practice,Basic-todo-list,basic-weather-app&cache_seconds=1800)](https://github.com/AGilbertDev/github-readme-stats)
 
 ## Main stack
 
