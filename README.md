@@ -56,6 +56,6 @@ The repos here are personal projects I can share publicly. My LinkedIn and portf
 
 ## Languages
 <div>
-  <img width="75" src="img/quebec.png" alt="French (Quebec)" title="French (Quebec)"/>
-  <img width="75" src="img/english.png" alt="English" title="English"/>
+  <img width="100" src="img/quebec.png" alt="French (Quebec)" title="French (Quebec)"/>
+  <img width="100" src="img/usa.png" alt="English" title="English"/>
 </div>
