@@ -29,7 +29,6 @@ The repos here are personal projects I can share publicly. My LinkedIn and portf
   <img src="https://skillicons.dev/icons?i=bun" title="Bun" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=elysia" title="Elysia" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=prisma" title="Prisma" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" width="48" height="48"/>
 </div>
 
