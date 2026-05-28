@@ -1,16 +1,14 @@
-# Why, hellooooo theeere! I'm Alex!
+# Hey, I'm Alex.
 
-I am a full stack software developer! I am mostly interested in full stack apps, web development, and games.
+Full stack developer at Hubelia, building production web apps in the cloud. Projects range from e-commerce storefronts to full internal management systems — suppliers, clients, inventory, cost calculations, role-based access, report generation, and more.
 
-The tech I use includes Typescript, as well as Vue.js and Nuxt.js, for the frontend. I rely on PostgreSQL and some ORMs for data management, Pinia and Tanstack for complex states and queries, and a few TailwindCSS compatible components libraries to help me build clean UIs. I use vitest, playwright, and other tools to check the quality of my code with unit testing, mutation testing and e2e testing. I have some experience with PHP, Java and Python, too. 
+What I'm most focused on right now: agentic AI tooling built for developers. I care about the engineering side of it — structured workflows, isolated execution, validation, and safety gates at each stage, not vibe coding. That naturally connects to CI/CD test automation: unit tests, E2E tests, and automated reports posted directly in pull requests so teams can catch issues before merge.
 
-Prior to coding, I worked in multiple fields that taught me a lot of soft skills. I value respect, team work, quality control, and efficiency.
+Before software, I spent about ten years in industrial and logistics environments. That shaped how I work: under pressure, with discipline, and with a strong bias toward quality.
 
-What keeps me motivated is learning new things, experimenting with personal projects, and adding new tools to my arsenal. The projects on this github profile are personal projects that I am allowed to share publicly.
+The repos here are personal projects I can share publicly. For the full picture, check my LinkedIn and portfolio.
 
-For more info about my journey and experience as a developer, feel free to look at my linkedin profile and porfolio.
-
-## <a href='https://www.linkedin.com/in/AGilbertDev/'>Linkedin</a>&emsp;<a href='https://agilbert.dev'>Portfolio</a>&emsp;<a href='https://leetcode.com/AGilbertDev'>Leetcode</a><!--&emsp;<a href='https://github.com/AGilbertDev/my-resume/blob/main/public/AlexandreGilbert_CV_2025.pdf'>Resume</a>-->
+## <a href='https://www.linkedin.com/in/AGilbertDev/'>LinkedIn</a>&emsp;<a href='https://agilbert.dev'>Portfolio</a>&emsp;<a href='https://leetcode.com/AGilbertDev'>Leetcode</a>
 
 [![Top Langs](https://github-readme-stats-alexandre-gilberts-projects.vercel.app/api/top-langs/?username=AGilbertDev&layout=compact)](https://github.com/AGilbertDev/github-readme-stats)
 
@@ -22,6 +20,9 @@ For more info about my journey and experience as a developer, feel free to look 
 ### Backend
 [![My Skills](https://skillicons.dev/icons?i=nodejs,bun,postgresql,elysia,prisma,vercel&theme=light)](https://skillicons.dev)
 
+### Tooling
+[![My Skills](https://skillicons.dev/icons?i=githubactions,vitest,playwright&theme=light)](https://skillicons.dev)
+
 ## Hobbies
 <div>
 		<img width="50" src="img/001-horseback.png" alt="Horseback Riding" title="Horseback Riding"/>
@@ -32,12 +33,11 @@ For more info about my journey and experience as a developer, feel free to look 
 		<img width="50" src="img/008-hiking.png" alt="Hiking" title="Hiking"/>
 		<img width="50" src="img/005-bicycle.png" alt="Cycling" title="Cycling"/>
 		<img width="50" src="img/004-movies.png" alt="Movies/TV Shows" title="Movies/TV Shows"/>
-		<img width="50" src="img/003-gamepad.png" alt="Viedo Games" title="Video Games"/>
+		<img width="50" src="img/003-gamepad.png" alt="Video Games" title="Video Games"/>
 </div>
-	
+
 ## Languages
 <div>
 		<img width="50" src="img/french.png" alt="French" title="French"/>
 		<img width="50" src="img/english.png" alt="English" title="English"/>
 </div>
-
