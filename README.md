@@ -8,9 +8,9 @@ Before software, I spent about ten years in industrial and logistics environment
 
 The repos here are personal projects I can share publicly.
 
-<a href="https://www.linkedin.com/in/AGilbertDev/"><img src="img/btn-linkedin-w.png" width="124" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/AGilbertDev/"><picture><source media="(prefers-color-scheme: dark)" srcset="img/btn-linkedin-dark.png"><img src="img/btn-linkedin-light.png" width="124" alt="LinkedIn"></picture></a>
 &nbsp;
-<a href="https://agilbert.dev"><img src="img/btn-portfolio-w.png" width="126" alt="Portfolio"></a>
+<a href="https://agilbert.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="img/btn-portfolio-dark.png"><img src="img/btn-portfolio-light.png" width="126" alt="Portfolio"></picture></a>
 
 <a href="https://github.com/AGilbertDev/github-readme-stats">
   <picture>
