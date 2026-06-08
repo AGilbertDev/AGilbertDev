@@ -21,8 +21,8 @@ The repos here are personal projects I can share publicly.
 
 ## Stack
 
-- **Frontend:** Vue, Nuxt, TypeScript, Tailwind, PrimeVue, Pinia
-- **Backend:** Bun, Elysia, PostgreSQL, Drizzle, Meilisearch, Vercel
+- **Frontend:** Vue, Nuxt, TypeScript, Tailwind, PrimeVue, Nuxt UI, Pinia
+- **Backend:** Bun, Elysia, PostgreSQL, SQLite, Drizzle, Meilisearch, Vercel
 - **State & validation:** TanStack Query, Zod
 - **Testing & CI:** Vitest, Playwright, Stryker, GitHub Actions, n8n
 
