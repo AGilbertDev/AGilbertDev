@@ -1,5 +1,14 @@
 # Hey, I'm Alex.
 
+<table>
+<tr>
+<td valign="top" width="340">
+
+<img src="img/self-portrait.png" width="320" alt="Alexandre Gilbert" />
+
+</td>
+<td valign="top">
+
 Full stack developer at Hubelia, building production web apps in the cloud. I work on anything from e-commerce storefronts to complete internal management systems.
 
 My main work is full stack development. I try to use AI efficiently and integrate it into my dev workflow, exploring agent files, devcontainers, and workflow setups that make AI a useful productivity tool rather than a replacement. I've also set up automated testing and reports in CI so teams get clear feedback on every pull request.
@@ -7,6 +16,10 @@ My main work is full stack development. I try to use AI efficiently and integrat
 Before software, I spent about ten years in industrial and logistics environments. It taught me how to work under pressure, stay disciplined, and care about what gets shipped.
 
 The repos here are personal projects I can share publicly. My LinkedIn and portfolio have the rest.
+
+</td>
+</tr>
+</table>
 
 ## <a href='https://www.linkedin.com/in/AGilbertDev/'>LinkedIn</a>&emsp;<a href='https://agilbert.dev'>Portfolio</a>&emsp;<a href='https://leetcode.com/AGilbertDev'>Leetcode</a>
 
