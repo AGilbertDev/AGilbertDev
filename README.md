@@ -8,9 +8,9 @@ Before software, I spent about ten years in industrial and logistics environment
 
 The repos here are personal projects I can share publicly. My LinkedIn and portfolio have the rest.
 
-## <a href='https://www.linkedin.com/in/AGilbertDev/'>LinkedIn</a>&emsp;<a href='https://agilbert.dev'>Portfolio</a>&emsp;<a href='https://leetcode.com/AGilbertDev'>Leetcode</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00A893?style=flat-square&logoColor=white)](https://www.linkedin.com/in/AGilbertDev/) &nbsp; [![Portfolio](https://img.shields.io/badge/Portfolio-15364A?style=flat-square&logo=nuxt&logoColor=00A893)](https://agilbert.dev) &nbsp; [![LeetCode](https://img.shields.io/badge/LeetCode-15364A?style=flat-square&logo=leetcode&logoColor=00A893)](https://leetcode.com/AGilbertDev)
 
-[![Top Langs](https://github-readme-stats-alexandre-gilberts-projects.vercel.app/api/top-langs/?username=AGilbertDev&layout=compact&size_weight=0.5&count_weight=0.5&exclude_repo=ift3325-tp2,ift3913-tache3,ARN,Complete-Web-Developer-Bootcamp-2024,Code-with-Mosh---React-Course,game-hub,vue-games,nuxt-travel-log,hyrule-jobs,reaction-time,dojo-blog,ninja-jobs,Tailwind-CSS-practice,JokesWebApp,basic-weather-app,Snake_Game,Basic-todo-list,bun-elysia-prisma,Dani-Krossing-PHP-Programming-for-Beginners-2023,Animal_Refuge_App,Animal_Refuge_App_2,Mini-Game,Debugging-Challenge,Student_Grading_App,Portfolio,web-form)](https://github.com/AGilbertDev/github-readme-stats)
+[![Top Langs](https://github-readme-stats-alexandre-gilberts-projects.vercel.app/api/top-langs/?username=AGilbertDev&layout=compact&size_weight=0.5&count_weight=0.5&exclude_repo=ift3325-tp2,ift3913-tache3,ARN,Complete-Web-Developer-Bootcamp-2024,Code-with-Mosh---React-Course,game-hub,vue-games,nuxt-travel-log,hyrule-jobs,reaction-time,dojo-blog,ninja-jobs,Tailwind-CSS-practice,JokesWebApp,basic-weather-app,Snake_Game,Basic-todo-list,bun-elysia-prisma,Dani-Krossing-PHP-Programming-for-Beginners-2023,Animal_Refuge_App,Animal_Refuge_App_2,Mini-Game,Debugging-Challenge,Student_Grading_App,Portfolio,web-form&hide_border=true&title_color=00A893&icon_color=00A893&text_color=808080&bg_color=00000000)](https://github.com/AGilbertDev/github-readme-stats)
 
 ## Main stack
 
