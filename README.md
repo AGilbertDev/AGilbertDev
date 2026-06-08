@@ -19,7 +19,12 @@ The repos here are personal projects I can share publicly. My LinkedIn and portf
 &nbsp;
 <a href="https://leetcode.com/AGilbertDev"><img height="40" src="https://img.shields.io/badge/LeetCode-15364A?style=flat-square&logo=leetcode&logoColor=00A893"></a>
 
-[![Top Langs](https://github-readme-stats-alexandre-gilberts-projects.vercel.app/api/top-langs/?username=AGilbertDev&layout=compact&size_weight=0.5&count_weight=0.5&exclude_repo=ift3325-tp2,ift3913-tache3,ARN,Complete-Web-Developer-Bootcamp-2024,Code-with-Mosh---React-Course,game-hub,vue-games,nuxt-travel-log,hyrule-jobs,reaction-time,dojo-blog,ninja-jobs,Tailwind-CSS-practice,JokesWebApp,basic-weather-app,Snake_Game,Basic-todo-list,bun-elysia-prisma,Dani-Krossing-PHP-Programming-for-Beginners-2023,Animal_Refuge_App,Animal_Refuge_App_2,Mini-Game,Debugging-Challenge,Student_Grading_App,Portfolio,web-form&hide_border=true&title_color=00A893&icon_color=00A893&text_color=15364A&bg_color=00000000)](https://github.com/AGilbertDev/github-readme-stats)
+<a href="https://github.com/AGilbertDev/github-readme-stats">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-alexandre-gilberts-projects.vercel.app/api/top-langs/?username=AGilbertDev&layout=compact&size_weight=0.5&count_weight=0.5&exclude_repo=ift3325-tp2,ift3913-tache3,ARN,Complete-Web-Developer-Bootcamp-2024,Code-with-Mosh---React-Course,game-hub,vue-games,nuxt-travel-log,hyrule-jobs,reaction-time,dojo-blog,ninja-jobs,Tailwind-CSS-practice,JokesWebApp,basic-weather-app,Snake_Game,Basic-todo-list,bun-elysia-prisma,Dani-Krossing-PHP-Programming-for-Beginners-2023,Animal_Refuge_App,Animal_Refuge_App_2,Mini-Game,Debugging-Challenge,Student_Grading_App,Portfolio,web-form&hide_border=true&title_color=00A893&icon_color=00A893&text_color=F4F4F5&bg_color=00000000">
+    <img alt="Most used languages" src="https://github-readme-stats-alexandre-gilberts-projects.vercel.app/api/top-langs/?username=AGilbertDev&layout=compact&size_weight=0.5&count_weight=0.5&exclude_repo=ift3325-tp2,ift3913-tache3,ARN,Complete-Web-Developer-Bootcamp-2024,Code-with-Mosh---React-Course,game-hub,vue-games,nuxt-travel-log,hyrule-jobs,reaction-time,dojo-blog,ninja-jobs,Tailwind-CSS-practice,JokesWebApp,basic-weather-app,Snake_Game,Basic-todo-list,bun-elysia-prisma,Dani-Krossing-PHP-Programming-for-Beginners-2023,Animal_Refuge_App,Animal_Refuge_App_2,Mini-Game,Debugging-Challenge,Student_Grading_App,Portfolio,web-form&hide_border=true&title_color=00A893&icon_color=00A893&text_color=15364A&bg_color=00000000">
+  </picture>
+</a>
 
 ## Main stack
 
