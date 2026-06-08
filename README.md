@@ -6,7 +6,8 @@ My main work is full stack development. I try to use AI efficiently and integrat
 
 Before software, I spent about ten years in industrial and logistics environments. It taught me how to work under pressure, stay disciplined, and care about what gets shipped.
 
-The repos here are personal projects I can share publicly.
+The repos here are personal projects I can share publicly. The rest is top secret.
+
 
 <a href="https://www.linkedin.com/in/AGilbertDev/"><picture><source media="(prefers-color-scheme: dark)" srcset="img/btn-linkedin-dark.png"><img src="img/btn-linkedin-light.png" width="124" alt="LinkedIn"></picture></a>
 &nbsp;
