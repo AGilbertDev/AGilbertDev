@@ -1,5 +1,7 @@
 # Hey, I'm Alex.
 
+<img src="img/self-portrait.png" align="left" width="180" alt="Alexandre Gilbert" />
+
 Full stack developer at Hubelia, building production web apps in the cloud. I work on anything from e-commerce storefronts to complete internal management systems.
 
 My main work is full stack development. I try to use AI efficiently and integrate it into my dev workflow, exploring agent files, devcontainers, and workflow setups that make AI a useful productivity tool rather than a replacement. I've also set up automated testing and reports in CI so teams get clear feedback on every pull request.
