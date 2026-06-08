@@ -1,6 +1,6 @@
 # Hey, I'm Alex.
 
-<img src="img/self-portrait.png" align="left" width="180" alt="Alexandre Gilbert" />
+<img src="img/self-portrait.png" align="left" width="360" alt="Alexandre Gilbert" />
 
 Full stack developer at Hubelia, building production web apps in the cloud. I work on anything from e-commerce storefronts to complete internal management systems.
 
