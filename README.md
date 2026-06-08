@@ -12,6 +12,8 @@ The repos here are personal projects I can share publicly. The rest is top secre
 <a href="https://www.linkedin.com/in/AGilbertDev/"><picture><source media="(prefers-color-scheme: dark)" srcset="img/btn-linkedin-dark.png"><img src="img/btn-linkedin-light.png" width="124" alt="LinkedIn"></picture></a>
 &nbsp;
 <a href="https://agilbert.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="img/btn-portfolio-dark.png"><img src="img/btn-portfolio-light.png" width="126" alt="Portfolio"></picture></a>
+&nbsp;
+<a href="https://agilbert.dev/AlexandreGilbert_Resume.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="img/btn-resume-dark.png"><img src="img/btn-resume-light.png" width="120" alt="Résumé"></picture></a>
 
 <a href="https://github.com/AGilbertDev/github-readme-stats">
   <picture>
