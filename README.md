@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="img/readme-header-dark.png">
+  <img src="img/readme-header-light.png" alt="Alexandre Gilbert — Développeur full-stack" width="100%">
+</picture>
+
 # Hey, I'm Alex.
 
 Full stack developer at Hubelia, building production web apps in the cloud. I work on anything from e-commerce storefronts to complete internal management systems.
