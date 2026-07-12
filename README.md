@@ -1,12 +1,12 @@
-# Hey, I'm Alex.
+# Hey, I'm Alex!
 
-Full stack developer at Hubelia, building production web apps in the cloud. I work on anything from e-commerce storefronts to complete internal management systems.
+Full stack developer at Hubelia since 2024, I build web applications hosted in the cloud. I work on anything from e-commerce storefronts to fully featured business software.
 
-My main work is full stack development. I try to use AI efficiently and integrate it into my dev workflow, exploring agent files, devcontainers, and workflow setups that make AI a useful productivity tool rather than a replacement. I've also set up automated testing and reports in CI so teams get clear feedback on every pull request.
+I try to use AI efficiently and integrate it into my development workflow, exploring agent files, devcontainers for safe isolation of automated tasks, and structured pipelines that make AI a useful productivity tool rather than a replacement. In the age if AI, quality and testing are ever more critical. I've set up automated testing and reports in CI using GitHub Actions so the team can get a clear feedback and path to correct themselves at every pull request.
 
-Before software, I spent about ten years in industrial and logistics environments. It taught me how to work under pressure, stay disciplined, and care about what gets shipped.
+Before software, I spent more than ten years in industrial and logistics environments. It taught me about efficiency, problem solving, and most of all, quality control. I use those skills every day when I ship code.
 
-The repos here are personal projects I can share publicly. The rest is top secret.
+The repos you see here are personal projects I can share publicly. The rest is top secret.
 
 
 <a href="https://www.linkedin.com/in/AGilbertDev/"><picture><source media="(prefers-color-scheme: dark)" srcset="img/btn-linkedin-dark.png"><img src="img/btn-linkedin-light.png" width="124" alt="LinkedIn"></picture></a>
