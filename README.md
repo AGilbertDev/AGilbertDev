@@ -1,14 +1,15 @@
 # Hey, I'm Alex 👋
 
-**Full stack developer at Hubelia, based in Québec.**
+**Full stack developer at Hubelia, in Québec.**
+I build and maintain production enterprise software, mostly custom ERPs and systems that manage logistics and production.
 
-I build and maintain production enterprise software, mostly custom ERPs and systems that manage logistics and production. My daily stack is TypeScript, Vue, Nuxt, and PostgreSQL.
+Spec-driven, agent-assisted, and a bit test-obsessed. My agents run sandboxed and gated by human review between steps, and I built a GitHub Actions workflow that posts test results and coverage as a compact PR comment so developers self-correct before review.
 
-AI is part of the job now, and using it well is what separates shipping quality software from pushing AI slop into the codebase. My team works with a spec-driven pipeline: specialized agents run in secure sandboxes and are gated by human review between steps. Since faster output raises the stakes on quality, I spend a lot of my free time on the testing pyramid and test automation. As a personal project, I built a GitHub Actions workflow that posts test results and coverage as a compact comment on every PR, so developers can self-correct before asking a colleague for review.
+Before code, I spent 12+ years on factory floors, production lines, and in warehouses. High bar for quality, tight deadlines, and that discipline stuck.
 
-Before software, I spent 12+ years in factories, on production lines, and in warehouses. The work was demanding and the quality standards were high, and that discipline stayed with me. I still bring it to every project, along with a knack for finding solutions to the problems that hold up production.
+The repos here are the personal projects I can share. The rest is top secret.
 
-The repos you see here are personal projects I can share publicly. The rest is top secret.
+🔧 **TypeScript · Vue · Nuxt · PostgreSQL**
 
 <a href="https://www.linkedin.com/in/AGilbertDev/"><picture><source media="(prefers-color-scheme: dark)" srcset="img/btn-linkedin-dark.png"><img src="img/btn-linkedin-light.png" width="124" alt="LinkedIn"></picture></a>
 &nbsp;
