@@ -1,6 +1,7 @@
 # Hey, I'm Alex 👋
 
 **Full stack developer at Hubelia, in Québec.**
+
 I build and maintain production enterprise software, mostly custom ERPs and systems that manage logistics and production.
 
 Spec-driven, agent-assisted, and a bit test-obsessed. My agents run sandboxed and gated by human review between steps, and I built a GitHub Actions workflow that posts test results and coverage as a compact PR comment so developers self-correct before review.
