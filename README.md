@@ -1,16 +1,16 @@
 # Hey, I'm Alex 👋
 
-**Full stack developer at Hubelia, in Québec.**
+Full stack developer in Québec, building production enterprise software that has to hold up in the real world.
 
-I build and maintain production enterprise software, mostly custom ERPs and systems that manage logistics and production.
-
-Spec-driven, agent-assisted, and a bit test-obsessed. My agents run sandboxed and gated by human review between steps, and I built a GitHub Actions workflow that posts test results and coverage as a compact PR comment so developers self-correct before review.
-
-Before code, I spent 12+ years on factory floors, production lines, and in warehouses. High bar for quality, tight deadlines, and that discipline stuck.
-
-The repos here are the personal projects I can share. The rest is top secret.
+- 🏢 At **Hubelia**, building custom ERPs and systems that manage logistics and production
+- ⚙️ I work spec-driven and agent-assisted, with agents sandboxed and human-gated between steps (quality software, not AI slop)
+- 🧪 A bit test-obsessed. I shipped a CI workflow that posts test results and coverage as a compact PR comment, so devs self-correct before review
+- 🏭 12+ years on factory floors before code, where my quality bar came from
+- 🧩 I like untangling gnarly business logic and finding the fix for whatever holds up production
 
 🔧 **TypeScript · Vue · Nuxt · PostgreSQL**
+
+*The repos here are the ones I can share publicly. The rest is top secret.*
 
 <a href="https://www.linkedin.com/in/AGilbertDev/"><picture><source media="(prefers-color-scheme: dark)" srcset="img/btn-linkedin-dark.png"><img src="img/btn-linkedin-light.png" width="124" alt="LinkedIn"></picture></a>
 &nbsp;
