@@ -23,6 +23,12 @@ The repos you see here are personal projects I can share publicly. The rest is t
   </picture>
 </a>
 
+## Currently
+
+- Deepening test automation and mutation testing (Vitest, Playwright, Stryker)
+- Building reusable coding-agent recipes and specialist subagents for my spec-driven pipeline
+- Shipping small tools that make the day-to-day developer experience faster
+
 ## Stack
 
 - **Frontend:** Vue, Nuxt, TypeScript, Tailwind, PrimeVue, Nuxt UI, Pinia
