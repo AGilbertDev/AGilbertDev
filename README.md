@@ -1,13 +1,14 @@
-# Hey, I'm Alex!
+# Hey, I'm Alex 👋
 
-Full stack developer at Hubelia since 2024, I build web applications hosted in the cloud. I work on anything from e-commerce storefronts to fully featured business software.
+**Full stack developer at Hubelia, based in Québec.**
 
-I try to use AI efficiently and integrate it into my development workflow, exploring agent files, devcontainers for safe isolation of automated tasks, and structured pipelines that make AI a useful productivity tool rather than a replacement. In the age if AI, quality and testing are ever more critical. I've set up automated testing and reports in CI using GitHub Actions so the team can get a clear feedback and path to correct themselves at every pull request.
+I build and maintain production enterprise software, mostly custom ERPs and systems that manage logistics and production. My daily stack is TypeScript, Vue, Nuxt, and PostgreSQL.
 
-Before software, I spent more than ten years in industrial and logistics environments. It taught me about efficiency, problem solving, and most of all, quality control. I use those skills every day when I ship code.
+AI is part of the job now, and using it well is what separates shipping quality software from pushing AI slop into the codebase. My team works with a spec-driven pipeline: specialized agents run in secure sandboxes and are gated by human review between steps. Since faster output raises the stakes on quality, I spend a lot of my free time on the testing pyramid and test automation. As a personal project, I built a GitHub Actions workflow that posts test results and coverage as a compact comment on every PR, so developers can self-correct before asking a colleague for review.
+
+Before software, I spent 12+ years in factories, on production lines, and in warehouses. The work was demanding and the quality standards were high, and that discipline stayed with me. I still bring it to every project, along with a knack for finding solutions to the problems that hold up production.
 
 The repos you see here are personal projects I can share publicly. The rest is top secret.
-
 
 <a href="https://www.linkedin.com/in/AGilbertDev/"><picture><source media="(prefers-color-scheme: dark)" srcset="img/btn-linkedin-dark.png"><img src="img/btn-linkedin-light.png" width="124" alt="LinkedIn"></picture></a>
 &nbsp;
