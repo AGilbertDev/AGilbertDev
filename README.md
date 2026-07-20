@@ -1,16 +1,14 @@
 # Hey, I'm Alex 👋
 
-Full stack developer in Québec, building production enterprise software that has to hold up in the real world.
+**Full stack developer at Hubelia, based in Québec.**
 
-- 🏢 At **Hubelia**, building custom ERPs and systems that manage logistics and production
-- ⚙️ I work spec-driven and agent-assisted, with agents sandboxed and human-gated between steps (quality software, not AI slop)
-- 🧪 A bit test-obsessed. I shipped a CI workflow that posts test results and coverage as a compact PR comment, so devs self-correct before review
-- 🏭 12+ years on factory floors before code, where my quality bar came from
-- 🧩 I like untangling gnarly business logic and finding the fix for whatever holds up production
+I build and maintain production enterprise software, mostly custom ERPs and systems that manage logistics and production. My daily stack is TypeScript, Vue, Nuxt, and PostgreSQL.
 
-🔧 **TypeScript · Vue · Nuxt · PostgreSQL**
+AI is part of the job now, and using it well is what separates shipping quality software from pushing AI slop into the codebase. My team works with a spec-driven pipeline: specialized agents run in secure sandboxes and are gated by human review between steps. Since faster output raises the stakes on quality, I spend a lot of my free time on the testing pyramid and test automation. As a personal project, I built a GitHub Actions workflow that posts test results and coverage as a compact comment on every PR, so developers can self-correct before asking a colleague for review.
 
-*The repos here are the ones I can share publicly. The rest is top secret.*
+Before software, I spent 12+ years in factories, on production lines, and in warehouses. The work was demanding and the quality standards were high, and that discipline stayed with me. I still bring it to every project, along with a knack for finding solutions to the problems that hold up production.
+
+The repos you see here are personal projects I can share publicly. The rest is top secret.
 
 <a href="https://www.linkedin.com/in/AGilbertDev/"><picture><source media="(prefers-color-scheme: dark)" srcset="img/btn-linkedin-dark.png"><img src="img/btn-linkedin-light.png" width="124" alt="LinkedIn"></picture></a>
 &nbsp;
